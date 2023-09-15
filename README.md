@@ -43,14 +43,14 @@ The repository is structured as follows:
   - `Application-Insights/`: KQL scripts related to Azure Application Insights.
   - `Virtual-Machines/`: KQL scripts related to Azure Virtual Machines.
   - `Azure-App-Services/`: KQL scripts related to Azure App Services.
-  - ... (add more categories as needed)
+  - ... 
 
 - **docs/**: Documentation and guides to help you make the most of AzureLogAnalysisKit.
   - `Usage-Guide.md`: Instructions on how to use the repository and execute KQL scripts.
   - `Troubleshooting-Tips.md`: Tips for common troubleshooting scenarios.
   - `Dependencies.md`: Information about any dependencies or prerequisites for running scripts.
-  - ... (add more documentation files as needed)
-
+  - ...
+    
 ## Usage
 
 AzureLogAnalysisKit is designed to simplify log analysis and troubleshooting. Here's how you can make the most of it:
